@@ -1,4 +1,5 @@
-Inspiration
+Inspiration:
+
 My project is inspired by the 1977 film: Star Wars: A New
 Hope. The scene I am depicting is when the "Millennium
 Falcon" first launches off the planet of Tatooine. It seems
@@ -7,7 +8,8 @@ four decades. According to me, this proves that our
 resources do not define our limitations. I hope you enjoy my
 rendition.
 
-About
+About:
+
 The plants, the wall, the reappearance of the TIE fighters
 and parts of the Millennium falcon itself are designed using
 recursive functions, while Tatooine's two suns and the
